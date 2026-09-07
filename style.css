@@ -1,18 +1,18 @@
 body {
-    font-family: Georgia, serif; /* 1. font diganti dari default browser */
-    margin: 20px; /* 2. jarak pinggir halaman ditambah */
-    line-height: 1.6; /* 3. jarak antar baris teks diperbesar biar enak dibaca */
+    font-family: Georgia, serif; 
+    margin: 20px; 
+    line-height: 1.6; 
 }
 
 nav a {
-    margin-right: 15px; /* 4. jarak antar link menu */
+    margin-right: 15px; 
 }
 
 article {
-    max-width: 700px; /* 5. lebar konten dibatasi biar nggak melebar penuh */
+    max-width: 700px; 
 }
 
 footer {
     margin-top: 30px;
-    font-size: 14px; /* 6. ukuran teks footer diperkecil */
+    font-size: 14px; 
 }
