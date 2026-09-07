@@ -1,18 +1,45 @@
 body {
-    font-family: Georgia, serif; 
-    margin: 20px; 
-    line-height: 1.6; 
+    font-family: Georgia, serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333333;
+}
+
+header {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #555555;
+    padding: 10px;
+    text-align: center;
 }
 
 nav a {
-    margin-right: 15px; 
+    color: #ffffff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
 
 article {
-    max-width: 700px; 
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
 }
 
 footer {
-    margin-top: 30px;
-    font-size: 14px; 
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
 }
