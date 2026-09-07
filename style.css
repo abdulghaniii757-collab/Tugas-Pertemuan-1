@@ -2,11 +2,11 @@ body {
     font-family: Georgia, serif;
     margin: 0;
     background-color: #f4f4f4;
-    color: #333333;
+    color: #000000;
 }
 
 header {
-    background-color: #333333;
+    background-color: #444370;
     color: #ffffff;
     padding: 20px;
     text-align: center;
@@ -37,7 +37,7 @@ article {
 }
 
 footer {
-    background-color: #333333;
+    background-color: #3d2b85;
     color: #ffffff;
     text-align: center;
     padding: 10px;
